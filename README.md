@@ -1,4 +1,4 @@
-#### I'm Luis Daniel, a software engineering student specializing in Back-End with the languages ​​of JavaScript, Django, TypeScript & Php
+#### I'm Luis Daniel, a software engineering student specializing in Back-End with the languages ​​of JavaScript, Django, TypeScript & PHP
 
 - I'm 21 years old.
 
