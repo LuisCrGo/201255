@@ -1,16 +1,19 @@
-#### I'm Luis Daniel, a software engineering student specializing in Back-End with the languages ​​of JavaScript, Django, TypeScript & PHP
+## I'm Luis Daniel Cruz, a software development engineering.
+<a href="https://https://www.linkedin.com/in/luis-daniel-cruz-gomez-454175289/"><img src="https://img.shields.io/static/v1?label=&message=LINKEDIN&color=blue&style=for-the-badge&logo=linkedin"></a>
 
-- I'm 22 years old.
+Back-End & Front-End Mobile Developer 
 
-![201255 GitHub stats](https://github-readme-stats.vercel.app/api?username=201255&show_icons=true&theme=transparent)
+### About me 🦧
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=201255&layout=compact)](https://github.com/201255/github-readme-stats)
+-  I'm 22 years old.
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=201255&repo=Repositorio-Institucional-UP---Back)](https://github.com/201255/Repositorio-Institucional-UP---Back)
+- I really like learning new things and always being up-to-date with technologies.
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=201255&repo=coordinadorPdf)](https://github.com/201255/coordinadorPdf)
+- Currently studying at Universidad Politécnica de Chiapas
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=201255&repo=apiMovil)](https://github.com/201255/apiMovil)
+<br>
 
+---
+### I have used these technologies and tools:
 
- ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+  [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,materialui,figma,flutter,python,nodejs,aws,cpp,dart,docker,express,linux,mysql,php,postgres,postman,xd)](https://skillicons.dev)
