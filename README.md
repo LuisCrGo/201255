@@ -1,6 +1,6 @@
 #### I'm Luis Daniel, a software engineering student specializing in Back-End with the languages ​​of JavaScript, Django, TypeScript & PHP
 
-- I'm 21 years old.
+- I'm 22 years old.
 
 ![201255 GitHub stats](https://github-readme-stats.vercel.app/api?username=201255&show_icons=true&theme=transparent)
 
