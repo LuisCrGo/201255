@@ -16,4 +16,4 @@ Back-End & Front-End Mobile Developer
 ---
 ### I have used these technologies and tools:
 
-  [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,materialui,figma,flutter,python,nodejs,aws,cpp,dart,docker,express,linux,mysql,php,postgres,postman,xd)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,materialui,figma,flutter,python,nodejs,aws,cpp,dart,docker,express,linux,mysql,php,postgres,postman,xd,java)](https://skillicons.dev)
