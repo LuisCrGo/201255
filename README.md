@@ -1,5 +1,5 @@
 ## I'm Luis Daniel Cruz, a software development engineering.
-<a href="https://https://www.linkedin.com/in/luis-daniel-cruz-gomez-454175289/"><img src="https://img.shields.io/static/v1?label=&message=LINKEDIN&color=blue&style=for-the-badge&logo=linkedin"></a>
+<a href="https://www.linkedin.com/in/luis-daniel-cruz-gomez-454175289/"><img src="https://img.shields.io/static/v1?label=&message=LINKEDIN&color=blue&style=for-the-badge&logo=linkedin"></a>
 
 Back-End & Front-End Mobile Developer 
 
